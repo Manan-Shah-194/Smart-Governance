@@ -174,16 +174,6 @@ vercel --prod
 - File uploads need backend integration
 - Real-time updates require WebSocket implementation
 
-## 📞 Support
-
-For support and questions:
-- **Email**: support@smartgovernance.gov.in
-- **Phone**: +91-XXX-XXXX-XXXX
-- **Documentation**: [Link to detailed docs]
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -194,3 +184,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built with ❤️ for better governance and citizen services**
+
